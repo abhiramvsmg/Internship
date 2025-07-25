@@ -3,3 +3,9 @@
 =======
 
 >>>>>>> a2ee7d28679519502a1e167d608e48df0f61fda6
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.log
+.env
+
