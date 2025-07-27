@@ -90,8 +90,7 @@ It focuses on predicting the presence of heart disease using various machine lea
 
 ## 📷 Screenshots / Outputs
 
-![Sample Output](output_chart.png)  
-*Confusion Matrix showing model performance*
+[Click here to view output screenshots](outputs/)
 
 ---
 
